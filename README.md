@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhipandey1402
-- 👀 I’m interested in building great websites.
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on webdev projects.
+- 👀 I’m interested in building great software.
+- 🌱 I’m currently learning DSA and development
+- 💞️ I’m looking to collaborate on projects.
 - 📫 reach to me on pandeyabhi142002@gmail.com
 
 <!---
