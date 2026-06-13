@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<a href="https://abhipandey.netlify.app">
+<a href="https://heyabhi.in">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=760&height=70&lines=Hi%2C+I'm+Abhi+Pandey+%F0%9F%91%8B;Full-Stack+Engineer+%E2%80%94+AI+%2B+Product;Building+AI+agent+systems+%26+scalable+platforms;MERN+%7C+TypeScript+%7C+Python" alt="Typing intro" />
 </a>
 
@@ -12,7 +12,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/abhipandey1402"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://abhipandey.netlify.app"><img src="https://img.shields.io/badge/Portfolio-1c1917?style=for-the-badge&logo=netlify&logoColor=84cc16" alt="Portfolio" /></a>
+  <a href="https://heyabhi.in"><img src="https://img.shields.io/badge/Portfolio-1c1917?style=for-the-badge&logo=netlify&logoColor=84cc16" alt="Portfolio" /></a>
   <a href="https://www.x.com/abhipandey1402"><img src="https://img.shields.io/badge/X-1c1917?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.dev.to/abhipandey1402"><img src="https://img.shields.io/badge/Dev.to-1c1917?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
   <a href="https://abhipandey.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-1c1917?style=for-the-badge&logo=hashnode&logoColor=2962FF" alt="Hashnode" /></a>
@@ -160,7 +160,7 @@ Spearheaded the frontend of an AI recruitment platform and built an Atlassian-po
 </table>
 
 <div align="center">
-  <a href="https://abhipandey.netlify.app"><img src="https://img.shields.io/badge/See_more_on_my_Portfolio-f97316?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://heyabhi.in"><img src="https://img.shields.io/badge/See_more_on_my_Portfolio-f97316?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
 </div>
 
 <br/>
