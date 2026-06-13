@@ -1,41 +1,230 @@
-Hi 👋 My name is Abhi Pandey
-============================
+<!-- ============================================================= -->
+<!--                          HERO                                 -->
+<!-- ============================================================= -->
 
-Software Engineer
------------------
+<div align="center">
 
-* 🌍  I'm based in Delhi India
-* 🖥️  See my portfolio at [abhipandey.netlify.app](http://abhipandey.netlify.app)
-* ✉️  You can contact me at [pandeyabhi142002@gmail.com](mailto:pandeyabhi142002@gmail.com)
-* 🚀  I'm currently working on [Brain Quiz](http://brainquizmcq.netlify.app/)
-* 🧠  I'm learning TypeScript and Python.
-* 🤝  I'm open to collaborating on MERN Stack, and Java Spring Boot Projects.
+<a href="https://abhipandey.netlify.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=760&height=70&lines=Hi%2C+I'm+Abhi+Pandey+%F0%9F%91%8B;Full-Stack+Engineer+%E2%80%94+AI+%2B+Product;Building+AI+agent+systems+%26+scalable+platforms;MERN+%7C+TypeScript+%7C+Python" alt="Typing intro" />
+</a>
 
-<a href="https://www.github.com/abhipandey1402" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/abhipandey1402?logo=github&style=for-the-badge&color=84cc16&labelColor=1c1917" /></a><a href="https://www.x.com/abhipandey1402" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/abhipandey1402?logo=twitter&style=for-the-badge&color=84cc16&labelColor=1c1917"
-/></a>
+<p><em>Engineering AI-powered products and scalable platforms — from Delhi, India&nbsp;🇮🇳</em></p>
 
-### Skills
-
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+<p>
+  <a href="https://www.linkedin.com/in/abhipandey1402"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://abhipandey.netlify.app"><img src="https://img.shields.io/badge/Portfolio-1c1917?style=for-the-badge&logo=netlify&logoColor=84cc16" alt="Portfolio" /></a>
+  <a href="https://www.x.com/abhipandey1402"><img src="https://img.shields.io/badge/X-1c1917?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.dev.to/abhipandey1402"><img src="https://img.shields.io/badge/Dev.to-1c1917?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
+  <a href="https://abhipandey.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-1c1917?style=for-the-badge&logo=hashnode&logoColor=2962FF" alt="Hashnode" /></a>
+  <a href="mailto:pandeyabhi142002@gmail.com"><img src="https://img.shields.io/badge/Email-f97316?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=abhipandey1402&label=Profile+Views&color=f97316&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/abhipandey1402"><img src="https://img.shields.io/github/followers/abhipandey1402?logo=github&style=for-the-badge&color=84cc16&labelColor=1c1917" alt="GitHub followers" /></a>
+  <a href="https://www.x.com/abhipandey1402"><img src="https://img.shields.io/twitter/follow/abhipandey1402?logo=twitter&style=for-the-badge&color=84cc16&labelColor=1c1917" alt="Twitter follow" /></a>
+</p>
 
-### Socials
+</div>
 
-<p align="left"> <a href="https://www.dev.to/abhipandey1402" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://discord.com/users/abhipandey1402" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/abhipandey1402" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://abhipandey.hashnode.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/abhipandey1402" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/abhipandey1402" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/abhipandey1402" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+---
 
-### Badges
+<!-- ============================================================= -->
+<!--                         ABOUT ME                              -->
+<!-- ============================================================= -->
 
-<b>My GitHub Stats</b>
+## 🧩 &nbsp;About Me
 
-<a href="http://www.github.com/abhipandey1402"><img src="https://github-readme-stats.vercel.app/api?username=abhipandey1402&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="abhipandey1402's GitHub stats" /></a>
+```ts
+const abhi = {
+  role:      "Full-Stack Engineer · AI Systems & Product Engineering",
+  location:  "Delhi, India 🇮🇳",
+  current:   "Building Aperio — an AI product inside Echopad @ Cloud Security Web",
+  stack:     ["MERN", "TypeScript", "Python", "Java"],
+  focus:     ["AI agent systems", "scalable backends", "clean product UX"],
+  learning:  ["advanced LLM orchestration", "system design at scale"],
+  mantra:    "Ship fast, build to last.",
+};
+```
 
-<a href="http://www.github.com/abhipandey1402"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhipandey1402&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+I'm a product-minded engineer with 2.5+ years of shipping production software across fast-paced startups. I specialize in building **AI-powered products** with the MERN stack and **multi-agent systems** (LangGraph · LangChain · OpenAI) — from secure REST APIs and automation workflows to polished, high-performance React interfaces. Currently pursuing an **MCA in Artificial Intelligence** while engineering intelligent workflows by day.
 
-<a href="http://www.github.com/abhipandey1402"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=abhipandey1402&bg_color=1c1917&color=ffffff&line=84cc16&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<br/>
 
-<a href="https://github.com/abhipandey1402" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhipandey1402&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- ============================================================= -->
+<!--                      WHAT I'M UP TO                           -->
+<!-- ============================================================= -->
+
+## ⚡ &nbsp;What I'm Working On
+
+- 🔭 &nbsp;Leading development of **Aperio**, an AI-powered product within **Echopad** — intelligent workflows, automation & agent systems on Azure
+- 🧠 &nbsp;Building **[Prepforge.space](https://prepforge.space)** — an AI-powered LeetCode companion using a LangGraph multi-agent system for personalized practice
+- 🎮 &nbsp;Polishing **[Brain Quiz](https://brainquizmcq.netlify.app)** — an interactive MCQ platform
+- 🌱 &nbsp;Going deep on **agentic architectures, LLM orchestration & system design**
+- 🤝 &nbsp;Open to collaborating on **MERN Stack** and **Java Spring Boot** projects
+
+<br/>
+
+<!-- ============================================================= -->
+<!--                        TECH STACK                             -->
+<!-- ============================================================= -->
+
+## 🛠️ &nbsp;Tech Stack
+
+<table>
+  <tr>
+    <td valign="top" width="180"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,python,java" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,html,css" alt="Frontend" /></td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend" /></td>
+  </tr>
+  <tr>
+    <td valign="top"><b>AI &amp; Orchestration</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/LangGraph-f97316?style=for-the-badge&logoColor=white" alt="LangGraph" />
+      <img src="https://img.shields.io/badge/LangChain-1c1917?style=for-the-badge&logo=langchain&logoColor=84cc16" alt="LangChain" />
+      <img src="https://img.shields.io/badge/OpenAI-1c1917?style=for-the-badge&logo=openai&logoColor=84cc16" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/AI_Agents-84cc16?style=for-the-badge&logoColor=1c1917" alt="AI Agents" />
+      <img src="https://img.shields.io/badge/Socket.io-1c1917?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>DevOps &amp; Cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,aws,azure,git,linux,vite,postman,vscode" alt="DevOps and Cloud" /></td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ============================================================= -->
+<!--                     FEATURED PROJECTS                         -->
+<!-- ============================================================= -->
+
+## 🚀 &nbsp;Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Prepforge.space
+> AI-powered LeetCode companion
+
+A multi-agent system that pulls your full submission history and delivers LLM-driven insights, weak-area detection, and next-question recommendations. Real-time sync at 99.9% uptime via AWS SQS.
+
+`React` `TypeScript` `Node` `LangGraph` `LangChain` `OpenAI` `AWS SQS`
+
+[**🔗 Live**](https://prepforge.space)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Brain Quiz
+> Interactive MCQ quiz platform
+
+A fast, responsive quiz app for sharpening fundamentals — clean UX, instant scoring, and a smooth question flow.
+
+`React` `JavaScript` `Tailwind CSS`
+
+[**🔗 Live**](https://brainquizmcq.netlify.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 Digital Holder
+> Secure software marketplace
+
+A full-featured MERN marketplace with secure checkout via PhonePe Gateway and a demo-request system that lifted conversions by 35%.
+
+`MongoDB` `Express` `React` `Node` `Payments`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 RegorTalent
+> AI-driven recruitment platform
+
+Spearheaded the frontend of an AI recruitment platform and built an Atlassian-powered support system that cut ticket resolution time by 30%.
+
+`React` `Redux` `Tailwind` `Atlassian API`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <a href="https://abhipandey.netlify.app"><img src="https://img.shields.io/badge/See_more_on_my_Portfolio-f97316?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+</div>
+
+<br/>
+
+<!-- ============================================================= -->
+<!--                       GITHUB STATS                            -->
+<!-- ============================================================= -->
+
+## 📊 &nbsp;GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhipandey1402&show_icons=true&count_private=true&hide_border=true&rank_icon=github&title_color=f97316&text_color=ffffff&icon_color=84cc16&bg_color=1c1917" alt="GitHub stats" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=abhipandey1402&hide_border=true&background=1c1917&stroke=ffffff&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub streak" />
+
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhipandey1402&layout=compact&langs_count=8&hide_border=true&title_color=f97316&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&custom_title=Most%20Used%20Languages" alt="Top languages" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=abhipandey1402&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+
+</div>
+
+<br/>
+
+<!-- ============================================================= -->
+<!--                     ACTIVITY GRAPH                            -->
+<!-- ============================================================= -->
+
+## 📈 &nbsp;Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhipandey1402&bg_color=1c1917&color=ffffff&line=84cc16&point=f97316&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Activity" alt="Activity graph" />
+</div>
+
+<br/>
+
+<!-- ============================================================= -->
+<!--                      CONTRIBUTION SNAKE                       -->
+<!-- ============================================================= -->
+<!-- Requires the GitHub Action in .github/workflows/snake.yml (included alongside this README). -->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhipandey1402/abhipandey1402/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhipandey1402/abhipandey1402/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/abhipandey1402/abhipandey1402/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- ============================================================= -->
+<!--                          FOOTER                               -->
+<!-- ============================================================= -->
+
+<div align="center">
+
+> *“Ship fast, build to last.”*
+
+<sub>💡 Always exploring better ways to blend AI with great product engineering. Let's build something.</sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f97316&height=110&section=footer&text=Thanks%20for%20stopping%20by!&fontColor=1c1917&fontSize=18&fontAlignY=78" alt="footer" width="100%" />
+
+</div>
